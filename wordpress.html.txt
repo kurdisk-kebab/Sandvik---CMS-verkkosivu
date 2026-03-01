@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WordPress</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav> ... (kopiera samma meny från ovan) </nav>
+
+<div class="hero">
+    <h1>WordPress</h1>
+    <p>Världens mest använda CMS. Open-source och gratis.</p>
+
+    <h2>Varför väljs WordPress?</h2>
+    <p>Användarvänligt, tusentals teman och plugins, stor community.</p>
+
+    <h2>Användningsområden</h2>
+    <p>Bloggar, företagswebbplatser, e-handel, portfolio.</p>
+</div>
+
+</body>
+</html>

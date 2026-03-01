@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>3 CMS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Hem</a>
+
+    <div class="dropdown">
+        <a href="cms.html">3 CMS</a>
+        <div class="dropdown-content">
+            <a href="wordpress.html">WordPress</a>
+            <a href="wix.html">Wix</a>
+            <a href="shopify.html">Shopify</a>
+        </div>
+    </div>
+
+    <a href="kontakt.html">Kontakt</a>
+</nav>
+
+<div class="hero">
+    <h1>Jämförelse mellan tre CMS</h1>
+</div>
+
+<div class="cms-logos">
+    <a href="wordpress.html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/WordPress_Blue_logo.svg">
+    </a>
+
+    <a href="wix.html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Wix.com_website_logo.svg">
+    </a>
+
+    <a href="shopify.html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopify_logo_2018.svg">
+    </a>
+</div>
+
+<div class="compare-section">
+
+    <div class="compare-box">
+        <h2>WordPress</h2>
+        <ul>
+            <li>+ Mycket anpassningsbart</li>
+            <li>+ Stort plugin-utbud</li>
+            <li>+ SEO-vänligt</li>
+            <li>- Kräver uppdateringar</li>
+            <li>- Kan kräva viss teknisk kunskap</li>
+        </ul>
+    </div>
+
+    <div class="compare-box">
+        <h2>Wix</h2>
+        <ul>
+            <li>+ Mycket enkelt att använda</li>
+            <li>+ Ingen kod behövs</li>
+            <li>+ All-in-one lösning</li>
+            <li>- Mindre flexibel</li>
+            <li>- Kan bli dyrt över tid</li>
+        </ul>
+    </div>
+
+    <div class="compare-box">
+        <h2>Shopify</h2>
+        <ul>
+            <li>+ Specialiserad på e-handel</li>
+            <li>+ Säkra betalningslösningar</li>
+            <li>+ Enkelt att hantera produkter</li>
+            <li>- Transaktionsavgifter</li>
+            <li>- Begränsad utanför e-handel</li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>

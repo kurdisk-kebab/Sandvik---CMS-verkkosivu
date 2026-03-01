@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kontakt</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav> ... </nav>
+
+<div class="contact">
+    <img src="dinbild.jpg" alt="Kevin">
+
+    <h2>Skapad av: Kevin Sandvik</h2>
+    <p>E-post: kevin.sandvik@edu.novia.fi</p>
+<img src="eminem-nightmare" alt="Min bild">
+    <p>Tjena!</p>
+    <p>Jag är förstaårsstuderande i tradenomprogrammet vid Novia.
+    Denna hemsida är skapad som del av en skoluppgift.</p>
+</div>
+
+</body>
+</html>

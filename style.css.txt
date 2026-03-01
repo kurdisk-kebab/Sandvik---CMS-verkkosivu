@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #111;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 30px;
+    position: relative;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+    position: relative;
+}
+
+nav a:hover {
+    color: #4da6ff;
+}
+
+/* Dropdown */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 40px;
+    background-color: #222;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.dropdown-content a {
+    display: block;
+    font-size: 18px;
+    padding: 5px 10px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.hero {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.hero h1 {
+    font-size: 60px;
+}
+
+.cms-logos {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 60px;
+}
+
+.cms-logos img {
+    width: 200px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.cms-logos img:hover {
+    transform: scale(1.1);
+}
+
+/* Jämförelsesektion */
+.compare-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 50px;
+}
+
+.compare-box {
+    width: 30%;
+}
+
+.compare-box h2 {
+    text-align: center;
+}
+
+ul {
+    line-height: 1.8;
+}
+
+/* Kontakt */
+.contact {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.contact img {
+    width: 250px;
+    border-radius: 15px;
+}
+
+@media (max-width: 900px) {
+    .cms-logos,
+    .compare-section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .compare-box {
+        width: 80%;
+        margin-bottom: 40px;
+    }
+}

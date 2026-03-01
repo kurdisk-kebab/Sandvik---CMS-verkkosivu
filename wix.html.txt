@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WordPress</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav> ... (kopiera samma meny från ovan) </nav>
+
+<div class="hero">
+    <h1>Wix</h1>
+    <p>Ett molnbaserat CMS (Content Management System) för att skapa webbplatser. Drag-and-drop-editor – bygg webbplatser utan programmering
+</p>
+
+    <h2>Varför väljs Wix?</h2>
+    <p>Enkel och intuitiv designprocess
+Färdiga mallar och appar för olika funktioner
+Hosting och domän kan skötas direkt via Wix
+</p>
+
+    <h2>Användningsområden</h2>
+    <p>Små företag och portföljer
+Bloggar
+E-handel
+Event & presentationer
+</p>
+</div>
+
+</body>
+</html>

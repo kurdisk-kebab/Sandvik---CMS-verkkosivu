@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WordPress</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav> ... (kopiera samma meny från ovan) </nav>
+
+<div class="hero">
+    <h1>Shopify</h1>
+    <p>Ett CMS och plattform för att skapa och hantera e-handelswebbplatser
+Molnbaserat  Allt från butik till betalning och lagerhantering på samma plats
+</p>
+
+    <h2>Varför väljs Shopify?</h2>
+    <p>Enkelt att använda även utan teknisk kunskap
+Stort ekosystem av appar och teman
+Integrerat med betalningslösningar och frakt
+</p>
+
+    <h2>Användningsområden</h2>
+    <p>Onlinebutiker för små och stora företag
+Dropshipping
+Digitala produkter och tjänster
+</p>
+</div>
+
+</body>
+</html>

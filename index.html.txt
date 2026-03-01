@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hem</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Hem</a>
+
+    <div class="dropdown">
+        <a href="cms.html">3 CMS</a>
+        <div class="dropdown-content">
+            <a href="wordpress.html">WordPress</a>
+            <a href="wix.html">Wix</a>
+            <a href="shopify.html">Shopify</a>
+        </div>
+    </div>
+
+    <a href="kontakt.html">Kontakt</a>
+</nav>
+
+<div class="hero">
+    <h1>Vad gör en bra hemsida?</h1>
+    <p>Målgrupp</p>
+    <p>Syfte</p>
+    <p>Telefonvänlig</p>
+    <p>Tydlig</p>
+    <p>Bra laddningstid</p>
+</div>
+
+</body>
+</html>
